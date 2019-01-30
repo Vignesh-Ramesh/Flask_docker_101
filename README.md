@@ -1,6 +1,6 @@
 # Flask_docker_101
 
-FLASK AND DOCKER are frameworks to expose ML Models as a rest API.
+FLASK AND DOCKER are frameworks to expose ML Models as a rest API.This is what 'productionalizing' ML solutions means.
 
 Make sure Postman is installed - www.getpostman.com
 
