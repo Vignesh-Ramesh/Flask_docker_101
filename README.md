@@ -2,6 +2,8 @@
 
 FLASK AND DOCKER are frameworks to expose ML Models as a rest API.
 
+Make sure Postman is installed - www.getpostman.com
+
 What does putting ML models to production mean? - 
 
 It means one of 3 things:
